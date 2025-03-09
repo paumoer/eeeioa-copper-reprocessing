@@ -1,7 +1,5 @@
-# eeeioa-copper-reprocessing
-Environmental and socioeconomic impacts of increased reprocessing of copper in Germany analysed utilizing Environmental Input-Output Analysis. 
-
-This was conducted as research project by three group members as an assignment for an advanced course in environmentally extended Input Output Analysis. Please check everything thouroughly. No guarantees given for scientific and/or methodological correctness. The project was awarded with a very good grade though. 
+# Environmental and socioeconomic impacts of increased reprocessing of copper in Germany
+This study analyzes the environmental and socioeconomic impacts of increased copper reprocessing in Germany using Environmental Input-Output Analysis. The research was conducted by three group members as part of an advanced course in environmentally extended Input-Output Analysis. While the findings have been thoroughly reviewed, no guarantees are made regarding their scientific or methodological accuracy. However, the project was awarded a very good grade.
 
 ### Research Project Summary
 
